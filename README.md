@@ -1,1 +1,1 @@
-# Header-egy-teljes-k-perny-s-cikkhez
+# Header-egy-teljes-képernyős-cikkhez
